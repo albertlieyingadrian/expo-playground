@@ -7,3 +7,8 @@ expo init <project-name>
 ```
 expo start
 ```
+
+## Publish project
+```
+expo publish
+```
